@@ -11,10 +11,10 @@ import json
 import re
 from datetime import datetime
 
-API_ID = 111111111
-API_HASH = '111111111'
-BOT_TOKEN = '8978049174:'
-ADMIN_ID = [111111]
+API_ID = 27839427
+API_HASH = 'd30158d31208d18c78cbc5248b9704d2'
+BOT_TOKEN = '8873205574:AAEXDmpDBfPfQsIgjfrT5LJ5GKj04GUM4EA'
+ADMIN_ID = [7752823229]
 CHECKER_API_URL = 'https://jinxshopi.up.railway.app/shopify'
 
 PREMIUM_USERS_FILE = "premium_users.txt"
